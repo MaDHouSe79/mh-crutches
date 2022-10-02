@@ -1,5 +1,5 @@
 ## MH-Crutches 
-- you can put this in your ambulance vehicle items. for docters can give players a crutch. 
+- you can put this in your ambulance vehicle items. so docters can give players a crutch. 
 
 
 ## Inventory Image
