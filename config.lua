@@ -1,5 +1,7 @@
 Config = {}
 
+Config.CheckForUpdates  = true
+
 Config.crutchModel = -1035084591 -- v_med_crutch01
 
 Config.clipSet = "move_lester_CaneUp"
