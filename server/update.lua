@@ -1,5 +1,7 @@
 local user = "MaDHouSe79"
-local script = "mh-mygaragemenu"
+local script = "mh-crutches"
+
+local resourceName = mil
 
 local function checkVersion(err, responseText, headers)
     curVersion = LoadResourceFile(GetCurrentResourceName(), "version")
@@ -24,8 +26,7 @@ end
 
 if Config.CheckForUpdates then
     Citizen.CreateThread( function()
-        updatePath   = "/"..user.."/"..script
         resourceName = ""..GetCurrentResourceName()..""
-        PerformHttpRequest("https://raw.githubusercontent.com"..updatePath.."/master/version", checkVersion, "GET")
+        PerformHttpRequest("https://raw.githubusercontent.com".."/"..user.."/"..script.."/master/version", checkVersion, "GET")
     end)
 end
