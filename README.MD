@@ -31,9 +31,10 @@
 - you can put this in your ambulance vehicle items. so docters can give players a crutch. 
 
 
+
 ## Inventory Image
 - place `crutch.png` into your `[qn]/qb-inventory/image` folder
-
+- this image is crearted by: xXUnknown13Xx#8226
 
 ## Shared Item (EN)
 ```lua
