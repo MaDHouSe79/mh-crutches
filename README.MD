@@ -23,9 +23,6 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&column=6" />
 </p>
 
-<p align="center">
-  <img alig src="https://raw.githubusercontent.com/kamranahmedse/driver.js/master/demo/images/split.png" />
-</p>
 
 ## MH-Crutches 
 - you can put this in your ambulance vehicle items. so docters can give players a crutch. 
