@@ -37,7 +37,7 @@
 ```lua
 ["crutch"] = {
     ["name"] = "crutch",
-    ["label"] = "Crutches".
+    ["label"] = "Crutches",
     ["weight"] = 1000,
     ["type"] = "item",
     ["image"] = "crutch.png",
@@ -54,7 +54,7 @@
 ```lua
 ["crutch"] = {
     ["name"] = "crutch",
-    ["label"] = "Een Kruk".
+    ["label"] = "Een Kruk",
     ["weight"] = 1000,
     ["type"] = "item",
     ["image"] = "crutch.png",
