@@ -37,7 +37,7 @@
 ```lua
 ["crutch"] = {
     ["name"] = "crutch",
-    ["label"] = "Crutches".
+    ["label"] = "Crutches",
     ["weight"] = 1000,
     ["type"] = "item",
     ["image"] = "crutch.png",
