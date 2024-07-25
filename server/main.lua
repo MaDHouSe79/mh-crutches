@@ -17,7 +17,7 @@ QBCore.Functions.CreateUseableItem('crutch', function(source)
             TriggerClientEvent('mh-crutches:client:crutch', source)
             Wait(10)
             Player.Functions.RemoveItem('crutch', 1)
-            TriggerClientEvent('inventory:client:ItemBox', source, QBCore.Shared.Items["crutch"], "remove", 1)
+            TriggerClientEvent('qb-inventory:client:ItemBox', source, QBCore.Shared.Items["crutch"], "remove", 1)
             isUsed = 0     
         end
     end
